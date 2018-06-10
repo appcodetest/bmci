@@ -1,0 +1,13 @@
+var wordpress_url = "https://modernshop110.taydomobile.com";
+var wordpress_per_page = 10;
+var request_timeout = 30000;
+var open_target_blank = true;
+var display_mode = 'ltr';
+var date_format = "d MMM y HH:mm";
+var onesignal_app_id = "a6f2cfba-b1dd-4d0d-83f8-d543ce7a0079";
+var application_language = "language";
+var google_analytics = ""; 
+var admob_android_banner = '';
+var admob_android_interstitial = 'ca-app-pub-4468518752177103/4305871873';
+var admob_ios_banner = '';
+var admob_ios_interstitial = 'ca-app-pub-4468518752177103/1518500692';
